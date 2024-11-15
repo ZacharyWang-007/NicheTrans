@@ -13,7 +13,7 @@ This is the *official* Pytorch implementation of "NicheTrans: Spatial-aware Cros
 
 ```bash
 pip install -r requirements.txt
-(we use /torch 1.6.0 /torchvision 0.7.0 /timm 0.3.2 /cuda 10.1 / 16G or 32G V100 for training and evaluation.
+(Here, we list some important packages crucial for model reproduction.）
 ```
 
 ### Prepare Datasets
