@@ -31,14 +31,10 @@ python Human_lymph_node_train_rna.py
 Users need to change the path while loading different datasets. 
 
 ## Model testing
-We provide the jupyter notebook for visualizing the translation results on datasets. 
+We provide the jupyter notebook for quantitative evaluation using pcc, spcc, and qualitative visualization of the translated results. 
 ```bash
 visualize_lymph_node.ipynb
 ```
-Here, we simply illustrate two selected genes:
-
-![](image/translated_CD3E.png)
-![](image/translated_HLA-DRA.png)
 
 ## Acknowledgement
 [Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html), [GraphST](https://deepst-tutorials.readthedocs.io/en/latest/#), [SEDR](https://sedr.readthedocs.io/en/latest/index.html).
