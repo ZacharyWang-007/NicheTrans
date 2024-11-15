@@ -23,16 +23,18 @@ Human lymph node dataset from ['Deciphering spatial domains from spatial multi-o
 More details of data pre-processing and fully aligned spatial multi-omics data will be released soon. 
 
 ## Model training
-Here, we simply 
+For each spatial multi-omics data, we wrote a specific py file for model training and testing. 
+Here, taking the human lymph node dataset as an example:
 ```bash
-python train.py 
+python Human_lymph_node_train_rna.py 
 ```
+Users need to change the dataset path while loading different datasets. 
 
 ## Model testing
 
 
 ## Acknowledgement
-[Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html).
+[Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html), [GraphST](https://deepst-tutorials.readthedocs.io/en/latest/#), [SEDR](https://sedr.readthedocs.io/en/latest/index.html).
 
 ## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zhikang.wang@monash.edu](mailto:zhikang.wang@monash.edu).
