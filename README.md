@@ -23,7 +23,7 @@ Human lymph node dataset from ['Deciphering spatial domains from spatial multi-o
 More details of data pre-processing and fully aligned spatial multi-omics data will be released soon. 
 
 ## Model training
-For each spatial multi-omics data, we wrote a specific py file for model training and testing. 
+For each spatial multi-omics data, we wrote a specific *.py* file for model training and testing. 
 Here, taking the human lymph node dataset as an example:
 ```bash
 python Human_lymph_node_train_rna.py 
