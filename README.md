@@ -40,4 +40,4 @@ visualize_lymph_node.ipynb
 [Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html), [GraphST](https://deepst-tutorials.readthedocs.io/en/latest/#), [SEDR](https://sedr.readthedocs.io/en/latest/index.html).
 
 ## Contact
-If you have any questions, please don't hesitate to contact us. E-mail: [zhikang.wang@monash.edu](mailto:zhikang.wang@monash.edu).
+If you have any questions, please don't hesitate to contact us. E-mail: [zhiyuan@fudan.edu.cn]@(mailto:zhiyuan@fudan.edu.cn); [zhikang.wang@monash.edu](mailto:zhikang.wang@monash.edu).
