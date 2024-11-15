@@ -36,6 +36,7 @@ We provide the jupyter notebook for visualizing the translation results on datas
 visualize_lymph_node.ipynb
 ```
 Here, we simply illustrate two selected genes:
+
 ![](image/translated_CD3E.png)
 ![](image/translated_HLA-DRA.png)
 
