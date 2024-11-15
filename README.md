@@ -31,7 +31,10 @@ python Human_lymph_node_train_rna.py
 Users need to change the path while loading different datasets. 
 
 ## Model testing
-
+We provide the jupyter notebook for visualizing the translation results on datasets. 
+```bash
+visualize_lymph_node.ipynb
+```
 
 ## Acknowledgement
 [Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html), [GraphST](https://deepst-tutorials.readthedocs.io/en/latest/#), [SEDR](https://sedr.readthedocs.io/en/latest/index.html).
