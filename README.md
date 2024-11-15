@@ -28,7 +28,7 @@ Here, taking the human lymph node dataset as an example:
 ```bash
 python Human_lymph_node_train_rna.py 
 ```
-Users need to change the dataset path while loading different datasets. 
+Users need to change the path while loading different datasets. 
 
 ## Model testing
 
