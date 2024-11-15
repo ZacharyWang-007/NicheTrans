@@ -1,16 +1,11 @@
 # NicheTrans: Spatial-aware Cross-omics Translation
-
 This is the *official* Pytorch implementation of "NicheTrans: Spatial-aware Cross-omics Translation". 
 
 ## Pipeline
-
 ![framework](overall.png)
 
-
 ## Requirements
-
 ### Installation
-
 ```bash
 pip install -r requirements.txt
 (Here, we list some important packages crucial for model reproduction.）
@@ -25,6 +20,19 @@ Human breast cancer dataset from ['High resolution mapping of the tumor microenv
 
 Human lymph node dataset from ['Deciphering spatial domains from spatial multi-omics with SpatialGlue'](https://www.nature.com/articles/s41592-024-02316-4).
 
-## Contact
+More details of data pre-processing and fully aligned spatial multi-omics data will be released soon. 
 
+## Model training
+Here, we simply 
+```bash
+python train.py 
+```
+
+## Model testing
+
+
+## Acknowledgement
+[Stagate](https://stagate.readthedocs.io/en/latest/index.html#), [SpatialGlue](https://spatialglue-tutorials.readthedocs.io/en/latest/index.html).
+
+## Contact
 If you have any questions, please don't hesitate to contact us. E-mail: [zhikang.wang@monash.edu](mailto:zhikang.wang@monash.edu).
